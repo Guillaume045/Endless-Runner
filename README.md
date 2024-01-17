@@ -9,10 +9,13 @@
 - [III-C3](#3c3)
 
 ---
-## 1.🕹️Description
-Embarque pour une aventure palpitante. Évite des obstacles qui surgissent, mettant tes réflexes à l'épreuve. Esquive, saute et découvre jusqu'où tu peux aller dans ce jeux.
 
 ![Image-01](/Image/Image-01.png)
+
+---
+
+## 1.🕹️Description
+Embarque pour une aventure palpitante. Évite des obstacles qui surgissent, mettant tes réflexes à l'épreuve. Esquive, saute et découvre jusqu'où tu peux aller dans ce jeux.
 
 ---
 ## 2.📝Fonctionnalités
